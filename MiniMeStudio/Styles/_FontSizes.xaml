@@ -1,0 +1,23 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sys="clr-namespace:System;assembly=System.Runtime">
+
+    <SolidColorBrush x:Key="PrimaryColor" Color="#00889C" />
+    <SolidColorBrush x:Key="SecondaryColor" Color="#F37634" />
+    <SolidColorBrush x:Key="Black" Color="#000000" />
+    <SolidColorBrush x:Key="DarkGrey" Color="#878787" />
+    <SolidColorBrush x:Key="LightGrey" Color="#DCDCDC" />
+    <SolidColorBrush x:Key="White" Color="#FFFFFF" />
+    
+    <sys:Double x:Key="XSmallFontSize">10</sys:Double>
+    
+    <sys:Double x:Key="SmallFontSize">12</sys:Double>
+
+    <sys:Double x:Key="MediumFontSize">14</sys:Double>
+
+    <sys:Double x:Key="LargeFontSize">18</sys:Double>
+
+    <sys:Double x:Key="XLargeFontSize">22</sys:Double>
+
+</ResourceDictionary>

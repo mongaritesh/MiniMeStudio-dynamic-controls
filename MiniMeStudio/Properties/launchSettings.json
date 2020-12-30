@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MiniMeStudio": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
